@@ -1,0 +1,198 @@
+﻿[
+   {
+      "id": 1,
+      "category_id": 1,
+      "name": "Product1",
+      "product_images": [
+         "https://ug.jumia.is/yGxYkkoxb4AyyJ9Sb8EUiSTgC3M=/fit-in/680x680/filters:fill(white):sharpen(1,0,false):quality(100)/product/87/43/1.jpg?2303",
+         "https://target.scene7.com/is/image/Target/GUEST_b18ef010-ba05-47c3-b4e6-a9a9b00323f1?wid=488&hei=488&fmt=pjpeg",
+         "https://images-na.ssl-images-amazon.com/images/I/7115Dm2UG1L._UY395_.jpg"
+      ],
+      "description": "Product1Product1Product1Product1Product1Product1Product1",
+      "colors": [
+         "Red",
+         "White",
+         "Black"
+      ],
+      "sizes": [
+         {
+            "id": 1,
+            "size": 10,
+            "hell_to_toe": 15,
+            "european": 16
+         },
+         {
+            "id": 1,
+            "size": 11,
+            "hell_to_toe": 18,
+            "european": 19
+         }
+      ],
+      "detail": {
+         "department_name": "Adult",
+         "item_type": "Flats",
+         "brand": "AIKE Asia",
+         "insole_material": "PVC"
+      },
+      "prices": {
+         "regular_price": 20,
+         "discount": 5,
+         "discount_schedule": {
+            "form": "07/06/2019",
+            "end": "17/06/2019"
+         }
+      },
+      "contact_info": {
+         "phone": "087637897",
+         "email": "anacha@shopping.com",
+         "address": "Phnom Penh"
+      }
+   },
+   {
+      "id": 2,
+      "category_id": 1,
+      "name": "Product2",
+      "product_images": [
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4Wjed8gC3ylU60lgRbIpdMDyXltx9DVLkiW04M7OWFeWwcPa",
+         "https://assets.adidas.com/images/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/d90ce0a10f89445c8cbda8fe0012262e_9366/Pro_Bounce_2018_Shoes_Black_AH2658_01_standard.jpg",
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3oyBAuaQq73iYtdfq5mWAKzWTMvuk2SdhVX1H7ot7SIdGws91"
+      ],
+      "description": "Product1Product1Product1Product1Product1Product1Product1",
+      "colors": [
+         "Red",
+         "White",
+         "Black"
+      ],
+      "sizes": [
+         {
+            "id": 1,
+            "size": 10,
+            "hell_to_toe": 15,
+            "european": 16
+         },
+         {
+            "id": 1,
+            "size": 11,
+            "hell_to_toe": 18,
+            "european": 19
+         }
+      ],
+      "detail": {
+         "department_name": "Adult",
+         "item_type": "Flats",
+         "brand": "AIKE Asia",
+         "insole_material": "PVC"
+      },
+      "prices": {
+         "regular_price": 25,
+         "discount": 5,
+         "discount_schedule": {
+            "form": "07/06/2019",
+            "end": "17/06/2019"
+         }
+      },
+      "contact_info": {
+         "phone": "087637897",
+         "email": "anacha@shopping.com",
+         "address": "Phnom Penh"
+      }
+   },
+   {
+      "id": 3,
+      "category_id": 1,
+      "name": "Product3",
+      "product_images": [
+         "https://images-na.ssl-images-amazon.com/images/I/51PUDhnqhhL._UX395_.jpg",
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ioiy4Jq_CLeZG7N3HEHD4mJXAkM6FL-st2R1vP5VE7oMCBkL",
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7gOnOD0GViV0GqMPIDnEGAcWQ_iQaCUklzJTZPO7F9C_nQrm"
+      ],
+      "description": "Product1Product1Product1Product1Product1Product1Product1",
+      "colors": [
+         "Red",
+         "White",
+         "Black"
+      ],
+      "sizes": [
+         {
+            "id": 1,
+            "size": 10,
+            "hell_to_toe": 15,
+            "european": 16
+         },
+         {
+            "id": 1,
+            "size": 11,
+            "hell_to_toe": 18,
+            "european": 19
+         }
+      ],
+      "detail": {
+         "department_name": "Adult",
+         "item_type": "Flats",
+         "brand": "AIKE Asia",
+         "insole_material": "PVC"
+      },
+      "prices": {
+         "regular_price": 20,
+         "discount": 5,
+         "discount_schedule": {
+            "form": "07/06/2019",
+            "end": "17/06/2019"
+         }
+      },
+      "contact_info": {
+         "phone": "087637897",
+         "email": "anacha@shopping.com",
+         "address": "Phnom Penh"
+      }
+   },
+   {
+      "id": 4,
+      "category_id": 1,
+      "name": "Product4",
+      "product_images": [
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfq4qtCsSk2vqriVqxf_l3Dr3hQmJ6r7MWeh7TPD4T65l8jtm",
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RJs9-Ojwnwpta1CtkS3aGOQ3Cksvqw7BcJruGHMoX591G9DM",
+         "https://images-na.ssl-images-amazon.com/images/I/7115Dm2UG1L._UY395_.jpg"
+      ],
+      "description": "Product1Product1Product1Product1Product1Product1Product1",
+      "colors": [
+         "Red",
+         "White",
+         "Black"
+      ],
+      "sizes": [
+         {
+            "id": 1,
+            "size": 10,
+            "hell_to_toe": 15,
+            "european": 16
+         },
+         {
+            "id": 1,
+            "size": 11,
+            "hell_to_toe": 18,
+            "european": 19
+         }
+      ],
+      "detail": {
+         "department_name": "Adult",
+         "item_type": "Flats",
+         "brand": "AIKE Asia",
+         "insole_material": "PVC"
+      },
+      "prices": {
+         "regular_price": 12,
+         "discount": 10,
+         "discount_schedule": {
+            "form": "07/06/2019",
+            "end": "17/06/2019"
+         }
+      },
+      "contact_info": {
+         "phone": "087637897",
+         "email": "anacha@shopping.com",
+         "address": "Phnom Penh"
+      }
+   }
+]

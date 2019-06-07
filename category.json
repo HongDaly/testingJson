@@ -1,0 +1,62 @@
+﻿[
+   {
+      "id": 1,
+      "cat_name": "Shoe",
+      "logo": "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250",
+      "feature_images": [
+         "https://img.runningwarehouse.com/watermark/rs.php?path=TPTVM22-1.jpg&nw=350",
+         "https://www.topoathletic.com/sca-product-images/M020.Blue-Mango_04.jpg?resizeid=2&resizeh=640&resizew=640",
+         "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250"
+      ]
+   },
+   {
+      "id": 2,
+      "cat_name": "Men's Clothing",
+      "logo": "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250",
+      "feature_images": [
+         "https://img.runningwarehouse.com/watermark/rs.php?path=TPTVM22-1.jpg&nw=350",
+         "https://www.topoathletic.com/sca-product-images/M020.Blue-Mango_04.jpg?resizeid=2&resizeh=640&resizew=640",
+         "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250"
+      ]
+   },
+   {
+      "id": 3,
+      "cat_name": "Bags",
+      "logo": "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250",
+      "feature_images": [
+         "https://img.runningwarehouse.com/watermark/rs.php?path=TPTVM22-1.jpg&nw=350",
+         "https://www.topoathletic.com/sca-product-images/M020.Blue-Mango_04.jpg?resizeid=2&resizeh=640&resizew=640",
+         "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250"
+      ]
+   },
+   {
+      "id": 4,
+      "cat_name": "Women's Clothing",
+      "logo": "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250",
+      "feature_images": [
+         "https://img.runningwarehouse.com/watermark/rs.php?path=TPTVM22-1.jpg&nw=350",
+         "https://www.topoathletic.com/sca-product-images/M020.Blue-Mango_04.jpg?resizeid=2&resizeh=640&resizew=640",
+         "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250"
+      ]
+   },
+   {
+      "id": 5,
+      "cat_name": "Sport",
+      "logo": "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250",
+      "feature_images": [
+         "https://img.runningwarehouse.com/watermark/rs.php?path=TPTVM22-1.jpg&nw=350",
+         "https://www.topoathletic.com/sca-product-images/M020.Blue-Mango_04.jpg?resizeid=2&resizeh=640&resizew=640",
+         "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250"
+      ]
+   },
+   {
+      "id": 6,
+      "cat_name": "Mobile & PC",
+      "logo": "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250",
+      "feature_images": [
+         "https://img.runningwarehouse.com/watermark/rs.php?path=TPTVM22-1.jpg&nw=350",
+         "https://www.topoathletic.com/sca-product-images/M020.Blue-Mango_04.jpg?resizeid=2&resizeh=640&resizew=640",
+         "https://contents.mediadecathlon.com/p1419921/k$72b461620e3e5ec61db942355362dd66/pw-100-men-s-fitness-walking-shoes-grey.jpg?&f=250x250"
+      ]
+   }
+]
